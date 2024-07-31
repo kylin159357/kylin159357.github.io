@@ -213,7 +213,7 @@ NexT.utils = {
   },
 
   /**
-   * Tabs tag listener (without twitter bootstrap).
+   * Tabs tag listener (without x bootstrap).
    */
   registerTabsTag() {
     // Binding `nav-tabs` & `tab-content` by real time permalink changing.
