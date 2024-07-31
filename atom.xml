@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Honzient</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>http://geekyrabbit.xyz/icon.png</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://geekyrabbit.xyz/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://geekyrabbit.xyz/"/>
   <updated>2024-07-30T13:37:26.406Z</updated>
-  <id>http://example.com/</id>
+  <id>http://geekyrabbit.xyz/</id>
   
   <author>
     <name>Honzient</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>文章标题</title>
-    <link href="http://example.com/2024/07/30/%E6%B5%8B%E8%AF%95/"/>
-    <id>http://example.com/2024/07/30/%E6%B5%8B%E8%AF%95/</id>
+    <link href="http://geekyrabbit.xyz/2024/07/30/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://geekyrabbit.xyz/2024/07/30/%E6%B5%8B%E8%AF%95/</id>
     <published>2024-07-30T04:00:00.000Z</published>
     <updated>2024-07-30T13:37:26.406Z</updated>
     
@@ -28,19 +28,19 @@
     
     
     
-    <category term="分类" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB/"/>
+    <category term="分类" scheme="http://geekyrabbit.xyz/categories/%E5%88%86%E7%B1%BB/"/>
     
     
-    <category term="标签1" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    <category term="标签1" scheme="http://geekyrabbit.xyz/tags/%E6%A0%87%E7%AD%BE1/"/>
     
-    <category term="标签2" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE2/"/>
+    <category term="标签2" scheme="http://geekyrabbit.xyz/tags/%E6%A0%87%E7%AD%BE2/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/07/29/hello-world/"/>
-    <id>http://example.com/2024/07/29/hello-world/</id>
+    <link href="http://geekyrabbit.xyz/2024/07/29/hello-world/"/>
+    <id>http://geekyrabbit.xyz/2024/07/29/hello-world/</id>
     <published>2024-07-29T09:24:00.609Z</published>
     <updated>2024-07-30T13:34:52.967Z</updated>
     
