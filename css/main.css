@@ -1466,7 +1466,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #7caf32;
+    background: #8bff61;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3101,12 +3101,6 @@ body {
   background-attachment: fixed;
   background-size: 100% 100%;
 }
-.main {
-  opacity: 0.85;
-}
-.popup {
-  opacity: 0.99;
-}
 .post-block {
   margin-top: 60px;
   margin-bottom: 60px;
@@ -3120,4 +3114,10 @@ body {
 .back-to-top {
   right: 60px;
   left: unset;
+}
+:root {
+  --content-bg-color: rgba(255,255,255,0.902);
+}
+.popup {
+  opacity: 0.99;
 }
